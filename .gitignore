@@ -1,0 +1,10 @@
+bin/
+*.o
+*.out
+*.exe
+*.dat
+*.csv
+*.txt
+*.pdf
+__pycache__/
+*.pyc
